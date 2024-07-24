@@ -4,7 +4,7 @@
 🌱 I’m currently learning React and Node.js.
 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
 📫 How to reach me: My Email: rutvikpatil2510@gmail.com
-🧿  LinkedIn: https://www.linkedin.com/in/rutvik-patil-5003b2224
+🧿  LinkedIn Profile: https://www.linkedin.com/in/rutvik-patil-5003b2224
 
 
 <!---
