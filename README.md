@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm Rutvik 👋
 
 👀 I’m interested in web development as a MERN stack developer.  
-🌱 I’m currently learning React and Node.js.  
+🌱 I’m currently learning React, Node.js and MongoDB.  
 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.  
 📫 How to reach me: 
 -Email: rutvikpatil2510@gmail.com
